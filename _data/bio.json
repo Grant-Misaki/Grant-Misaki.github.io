@@ -25,17 +25,17 @@
   },
   "interests": [
     {
-      "name": "programing",
+      "name": "Video games",
+      "keywords": [ 'valorant'
+      ]
+    },
+    {
+      "name": "gardening",
       "keywords": [
       ]
     },
     {
-      "name": "Psychology",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "cooking",
       "keywords": [
       ]
     }

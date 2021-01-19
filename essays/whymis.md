@@ -4,6 +4,8 @@ type: essay
 title: Why I chose MIS
 date: 2021-01-18
 labels:
+- Education
+- MIS
 ---
 
 I was an engineering student at Leeward, where I took ICS 111.  

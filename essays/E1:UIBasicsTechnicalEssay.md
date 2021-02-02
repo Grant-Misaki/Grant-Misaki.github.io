@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why I chose MIS
+title: E1:UIBasicsTechnicalEssay
 date: 2021-02-01
 labels: 
   - WOD

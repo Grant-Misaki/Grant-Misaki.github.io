@@ -4,7 +4,7 @@ type: essay
 title: E1: UI Basics Technical Essay
 date: 2021-02-21
 labels: 
-  -WOD
+  - WOD
 ---
 
   I had no idea how to start Browser History 1, so I went back and actually did the readings, like we were supposed to.  

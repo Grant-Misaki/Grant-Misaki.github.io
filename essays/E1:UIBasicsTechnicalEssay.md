@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basics Technical Essay
-date: 2021-02-21
+title: Why I chose MIS
+date: 2021-02-01
 labels: 
- - WOD
+  - WOD
 ---
+
   I had no idea how to start Browser History 1, so I went back and actually did the readings, like we were supposed to.  
 Then, after reading the resources on html, I started my "first" attempt.  This first attemp took me quite a while,
 and I found myself going back and referencing the html reading often.  I had a hard time with the internal links, I could not remember which tag to use where.  

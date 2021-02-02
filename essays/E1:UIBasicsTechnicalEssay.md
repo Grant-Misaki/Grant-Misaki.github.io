@@ -29,5 +29,4 @@ remember what properties go where.
 
   My advice for the WODs would be to do the readings, make an attempt at the WOD, and if/when you get stuck then go to the screen cast and watch it all the way through.  
   If you just watch the screen cast without doing the readings, you will get lost, and have a hard time trying to do the exercise.  
-  Also try to start on them as soon as you can, that way if you run into problems, you can ask questions and understand the material before it is due.  
-  If you have the time, I would just spend your first/second attempt trying to understand what you are doing.
+  Also try to start on them as soon as you can, that way if you run into problems, you can ask questions and understand the material before it is due.  If you have the time, I would just spend your first/second attempt trying to understand what you are doing.

@@ -20,7 +20,7 @@
         "network": "github",
         "username": "grant-misaki",
         "url": "http://github.com/grant-misaki"
-      },
+      }
   
     ]
   },
@@ -72,7 +72,7 @@
       "area": "Management Information Systems (expected Fall, 2022)",
       "studyType": "B.A.",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -91,3 +91,5 @@
       "reference": ""
     }
   ]
+}
+
